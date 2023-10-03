@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18ed0bc0.css",
+    "main.js": "/static/js/main.80b627d3.js",
+    "static/js/787.52332f46.chunk.js": "/static/js/787.52332f46.chunk.js",
+    "static/media/back.jpg": "/static/media/back.8ede582fdfa42394b1d1.jpg",
+    "static/media/back_4.jpg": "/static/media/back_4.19b5bbfbd0b070b77126.jpg",
+    "static/media/back_2.jpg": "/static/media/back_2.4482bf3484192a2637d7.jpg",
+    "static/media/back_3.jpg": "/static/media/back_3.8cc6fa17a6f3fdd0affc.jpg",
+    "static/media/back_5.jpg": "/static/media/back_5.daa3fc3436053392f09c.jpg",
+    "static/media/LOGO_WHITE.png": "/static/media/LOGO_WHITE.9026176b53379c40f731.png",
+    "static/media/logo_true.svg": "/static/media/logo_true.b811073e1fd0b6465a05bfb211e65cf3.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram.svg": "/static/media/instagram.b53ce129ca0a9d0853f9eb464289e832.svg",
+    "static/media/icon-boat.svg": "/static/media/icon-boat.3d604b686d5592da74e0a5483d6e4a98.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/favicon.svg": "/static/media/favicon.f486e6b00fe206fc75aa6f68da50264a.svg",
+    "static/media/telephone-fill.svg": "/static/media/telephone-fill.d4796a0cb85eb8fae1c9d85cb13f046f.svg",
+    "static/media/icon-courriet.svg": "/static/media/icon-courriet.cbc532244bfbad5597d63f46af40cdf1.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.cfbd5f17126af1b09c45d214dcdd7dc2.svg",
+    "static/media/phone-alt.svg": "/static/media/phone-alt.0a26212a3dd5fe8eb18c068132d9433a.svg",
+    "index.html": "/index.html",
+    "static/media/send-fill.svg": "/static/media/send-fill.e22dace287c41d265518f4170097bb0a.svg",
+    "static/media/facebook.svg": "/static/media/facebook.8e4c280ba1aef0c877ee4f224d1e69c3.svg",
+    "static/media/favicon_2.svg": "/static/media/favicon_2.f1dc586df2c6ddc31166b25ced0e5112.svg",
+    "static/media/Polygone 9 (fermé).svg": "/static/media/Polygone 9 (fermé).07a99bc2ba0c9fd6ed805839b655d1b9.svg",
+    "main.18ed0bc0.css.map": "/static/css/main.18ed0bc0.css.map",
+    "main.80b627d3.js.map": "/static/js/main.80b627d3.js.map",
+    "787.52332f46.chunk.js.map": "/static/js/787.52332f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ed0bc0.css",
+    "static/js/main.80b627d3.js"
+  ]
+}
